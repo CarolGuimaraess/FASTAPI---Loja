@@ -13,15 +13,15 @@ Funcionalidades
 
 Endpoints
 - Listar Produtos
-GET /produtos/Retorna uma lista de todos os produtos disponíveis.
+GET /produtos Retorna uma lista de todos os produtos disponíveis.
 - Obter Produto por ID
-GET /produtos/{produto_id}Retorna os detalhes de um produto específico com base no ID fornecido.
+GET /produtos/{produto_id} Retorna os detalhes de um produto específico com base no ID fornecido.
 - Criar Produto
-POST /produtos/Cria um novo produto com os detalhes fornecidos no corpo da solicitação.
+POST /produtos/ Cria um novo produto com os detalhes fornecidos no corpo da solicitação.
 - Atualizar Produto
-PUT /produtos/{produto_id}Atualiza os detalhes de um produto existente com base no ID fornecido.
+PUT /produtos/{produto_id} Atualiza os detalhes de um produto existente com base no ID fornecido.
 - Deletar Produto
-DELETE /produtos/{produto_id}Deleta um produto existente com base no ID fornecido.
+DELETE /produtos/{produto_id} Deleta um produto existente com base no ID fornecido.
 
 Modelo de Dados
 
