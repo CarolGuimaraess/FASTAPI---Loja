@@ -31,7 +31,7 @@ A API espera e retorna dados no formato JSON seguindo o modelo de dados: {
   "preco": "float"
 }
 
-*Apos ter dado GIT CLONE no projeto:*
+*Após ter dado GIT CLONE no projeto:*
 
 # Certifique-se de ter todas as dependências instaladas. Você pode instalá-las executando:
 - pip install fastapi uvicorn
