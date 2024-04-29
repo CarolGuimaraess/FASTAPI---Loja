@@ -33,6 +33,9 @@ A API espera e retorna dados no formato JSON seguindo o modelo de dados: {
 
 *Após ter dado GIT CLONE no projeto:*
 
+# Instalação
+você precisará do Python instalado em seu sistema. 
+
 # Certifique-se de ter todas as dependências instaladas. Você pode instalá-las executando:
 - pip install fastapi uvicorn
 
