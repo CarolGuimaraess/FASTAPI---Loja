@@ -37,3 +37,6 @@ A API espera e retorna dados no formato JSON seguindo o modelo de dados: {
 # Para iniciar o servidor, execute o seguinte comando:
 - uvicorn main:app --reload
 - O servidor será iniciado em http://127.0.0.1:8000.
+
+# Você pode acessar a documentação interativa da API em:
+- http://127.0.0.1:8000/docs
